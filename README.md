@@ -9,4 +9,7 @@
 
 Prompt1
 * OpenAI API 호출, System Prompt 호출, User Prompt 호출, Stream
+
+평가 프롬프트
+* 태스크에 적합한 평가(1.사람을 활용한 평가, 2.모델을 활용한 평가, 3.코드를 활용한 평가)
 ```
